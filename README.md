@@ -26,7 +26,7 @@ Computer Scientist and Mathematician eager to continue using Artificial Intellig
 ### Open-Source contributions
 
 <p align="center">
-<a href="https://github.com/keras-team/keras/pull/16174"><img src="" /></a>
+<a href="https://github.com/keras-team/keras/pull/16174"><img src="KerasPR.png" /></a>
 </p>
 
 ### Kaggle
